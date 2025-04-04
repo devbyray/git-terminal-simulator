@@ -1,4 +1,4 @@
-# 🦄 Magical Git Terminal Simulator
+# Git Terminal Simulator
 
 A fun, interactive Git terminal simulator built with Vue 3, Vite, and Tailwind CSS v4. Practice Git commands in a safe, browser-based environment that mimics a unicorn-themed macOS terminal interface.
 
@@ -6,7 +6,6 @@ A fun, interactive Git terminal simulator built with Vue 3, Vite, and Tailwind C
 
 ## ✨ Features
 
-- 🦄 Playful unicorn-themed terminal interface
 - 🔄 Support for essential Git commands and workflows
 - 🌿 Full branch management with proper file tracking per branch
 - 🔀 Realistic merge conflict simulation and resolution
@@ -25,8 +24,8 @@ A fun, interactive Git terminal simulator built with Vue 3, Vite, and Tailwind C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/git-presentation.git
-   cd git-presentation/git-terminal-simulator
+   git clone https://github.com/devbyray/git-terminal-simulator.git
+   cd git-terminal-simulator
    ```
 
 2. Install dependencies:
